@@ -8,3 +8,4 @@ pytz
 sqlparse
 tornado
 gunicorn
+eventlet
